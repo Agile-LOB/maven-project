@@ -36,7 +36,7 @@ stages{
                   echo 'Successful Production push...'
 
               }
-              failture {
+              failure {
                 echo 'Failed Production Deployment...'
               }
           }
